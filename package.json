@@ -1,1 +1,0 @@
-{"name":"wms-tms-gps","version":"1.0.0","description":"Sistema WMS + TMS + GPS (demostración)","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18"},"license":"UNLICENSED","private":true}
